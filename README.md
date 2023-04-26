@@ -7,4 +7,5 @@
 
 ### 📈 GitHub Analytics
 ![Matheus Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusoliveira67&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoliveira67&hide_progress=true)](https://github.com/matheusoliveira67/github-readme-stats)
 
